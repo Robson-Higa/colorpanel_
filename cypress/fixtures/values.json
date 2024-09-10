@@ -1,0 +1,4 @@
+{
+  "backgroundColor": "`rgba(${red}, ${green}, ${blue}, ${alpha})`"
+  
+}
